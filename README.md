@@ -15,7 +15,7 @@ I am learning Data Analytics from scratch.
 - NumPy
 - Pandas
 - Power BI
-- Tableau
+- Tableau 
 
 ## My Goal
 Build practical Data Analytics skills
